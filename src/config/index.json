@@ -1,0 +1,199 @@
+{
+  "company": {
+    "name": "EELAB ARGO Propser With Nature",
+    "logo": "/assets/images/logoM.png"
+  },
+  "navigation": [
+    {
+      "name": "Solutions",
+      "href": "solutions"
+    },
+    {
+      "name": "Company",
+      "href": "company"
+    },
+
+    {
+      "name": "Join Us",
+      "href": "joinUs"
+    },
+    {
+      "name": "Contact Us",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "EELAB ARGO",
+    "subtitle": "Propser With Nature",
+    "description": "We Are Passionate About Addressing Climate Change Through A Sustainable Agri-Business.",
+    "img": "/assets/images/HeroImgM.png",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Solutions, We Induced",
+    "items": [
+      {
+        "title": "EELAB Business and Agri-Station",
+        "description": "Considering significant variations in all farms, we provide a customized solution with omnichannel access for every farmer for the inputs, including carbon sequestration.",
+        "img": "/assets/images/product1.jpg",
+        "descriptions": [
+          "Authentic inputs for your farm.",
+          "Crop Protection- Protect your crops with a range of curated, high-quality inputs.",
+          "Genuine Products- Confidence in knowing what you’re purchasing, with complete traceability to ensure quality and eliminate counterfeits.",
+          "Price Comparison- Compare and choose the best price you can get ",
+          "Insurance and credit facility."
+        ]
+      },
+      {
+        "title": "EELAB- Trade Centers",
+        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "img": "/assets/images/product2.jpg",
+        "descriptions": [
+          "Market linkages to the harvested products.",
+          "Sell your produce profitably with smart pricing.",
+          "Earn profits by setting smart prices based on market intelligence.",
+          "Trade – Access trade markets that value sustainable produce.",
+          "Storage – Store your produce in a scientifically controlled environment."
+        ]
+      },
+      {
+        "title": "EELAB Carbon Token",
+        "description": "In the fight to address climate change, businesses and individuals have choices and tools to consider. Companies, for example, are increasingly identifying ways to reduce their carbon dioxide ( CO2) footprint. For example, this can be accomplished by adopting cleaner fuels, identifying technologies that may store or sequester  CO2 emissions and changing manufacturing processes .",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "EELAB - Agri Tech Farms and Brands",
+        "img": "/assets/images/product2.jpg",
+        "descriptions": [
+          "Model farms with the best of future technologies and products.",
+          "We will be launching our Brands shortly!"
+        ]
+      },
+      {
+        "title": "Data Analytics and Satellite-Based Imaging",
+        "img": "/assets/images/product1.jpg",
+        "descriptions": [
+          " Two-way service from the farmer and farms.",
+          "Information and response from satellites, sensors, and markets.",
+          "Monitor crop yields and the health of large areas."
+        ]
+      }
+    ]
+  },
+  "features": {
+    "title": "Latest & greatest ",
+    "subtitle": "About Us - ELLAB AGRO",
+    "description": "EELAB AGRO is a climate-smart Agri-marketplace. We are continuously enhancing our understanding and creating new modern and commercially viable ways to enhance and implement carbon sequestration into the Agri ecosystem. We work on enhancing Agri productivity, increasing competence to fight shocks at all levels, and creating ways to increase the possibility of carbon sequestration wherever possible. We provide more and more sustainable and proprietary ways to implement the process which are modern and also increasing revenue streams for all stakeholders. By doing this, the one who provides us with what we need, can provide us with what we need and prosper. Thereby creating an ecosystem that is profitable as well as beneficial for all.",
+    "items": [
+      {
+        "name": "Animesh Ghosh",
+        "description": "This is dummy text.",
+        "icon": "/assets/images/animesh.png",
+        "linkUrl": "#"
+      },
+      {
+        "name": "Dr. Vikram Vishal",
+        "description": "Mentor.",
+        "icon": "/assets/images/vikram.png",
+        "linkUrl": "#"
+      },
+      {
+        "name": "Dr. Arnab Dutta",
+        "description": "Mentor.",
+        "icon": "/assets/images/arnab.png",
+        "linkUrl": "#"
+      },
+      {
+        "name": "Koyel Das",
+        "description": "This is dummy text.",
+        "icon": "/assets/images/koyel.png",
+        "linkUrl": "#"
+      },
+      {
+        "name": "Rajinikant Gaikwad",
+        "description": "This is dummy text.",
+        "icon": "/assets/images/rajinikant.png",
+        "linkUrl": "#"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Soutions",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Company",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Join Us",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Contach",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
