@@ -57,7 +57,6 @@
       },
       {
         "title": "EELAB- Trade Centers",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
         "img": "/assets/images/product2.jpg",
         "descriptions": [
           "Market linkages to the harvested products.",
@@ -70,11 +69,11 @@
       {
         "title": "EELAB Carbon Token",
         "description": "In the fight to address climate change, businesses and individuals have choices and tools to consider. Companies, for example, are increasingly identifying ways to reduce their carbon dioxide ( CO2) footprint. For example, this can be accomplished by adopting cleaner fuels, identifying technologies that may store or sequester  CO2 emissions and changing manufacturing processes .",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/product3.png"
       },
       {
         "title": "EELAB - Agri Tech Farms and Brands",
-        "img": "/assets/images/product2.jpg",
+        "img": "/assets/images/product4.png",
         "descriptions": [
           "Model farms with the best of future technologies and products.",
           "We will be launching our Brands shortly!"
@@ -82,7 +81,7 @@
       },
       {
         "title": "Data Analytics and Satellite-Based Imaging",
-        "img": "/assets/images/product1.jpg",
+        "img": "/assets/images/product5.png",
         "descriptions": [
           " Two-way service from the farmer and farms.",
           "Information and response from satellites, sensors, and markets.",

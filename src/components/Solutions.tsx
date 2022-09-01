@@ -8,7 +8,7 @@ const Solutions = () => {
   const [firstItem, secondItem, thirdItem, forthItem, lastItem] = product.items;
 
   return (
-    <section className={`bg-background py-8`} id="product">
+    <section className={`bg-background py-8`} id="solutions">
       <div className={`container max-w-5xl mx-auto m-8`}>
         <h1
           className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
