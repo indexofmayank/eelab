@@ -14,6 +14,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
+    "@hapi/hawk": "^8.0.0",
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
     "framer-motion": "^5.0.0",
@@ -53,6 +54,11 @@
     "rimraf": "^3.0.2",
     "tailwindcss": "^2.2.17",
     "typescript": "^4.4.4"
+  },
+  "extends": "next",
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off"
   },
   "license": "ISC"
 }
