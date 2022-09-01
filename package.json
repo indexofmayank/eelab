@@ -18,7 +18,7 @@
     "@headlessui/react": "^1.4.1",
     "@heroicons/react": "^1.0.5",
     "framer-motion": "^5.0.0",
-    "hawk": "github:mozilla/hawk",
+    // "hawk": "github:mozilla/hawk",
     "next": "^12.0.0",
     "next-seo": "^4.28.1",
     "react": "^17.0.2",
