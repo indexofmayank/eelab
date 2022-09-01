@@ -322,16 +322,7 @@
   dependencies:
     "@hapi/boom" "9.x.x"
 
-"@hapi/hawk@^8.0.0":
-  "integrity" "sha512-VEvZUMfZKjXadT9XUt5543ol2DJN7cbcz0j/03wzVcuFxyjuyUaM38aHjf4jxr4feU9B2RT9JOV+H9Q4Ax72qA=="
-  "resolved" "https://registry.npmjs.org/@hapi/hawk/-/hawk-8.0.0.tgz"
-  "version" "8.0.0"
-  dependencies:
-    "@hapi/b64" "5.x.x"
-    "@hapi/boom" "9.x.x"
-    "@hapi/cryptiles" "5.x.x"
-    "@hapi/hoek" "9.x.x"
-    "@hapi/sntp" "4.x.x"
+
 
 "@hapi/hoek@9.x.x":
   "integrity" "sha512-gfta+H8aziZsm8pZa0vj04KO6biEiisppNgA1kbJvFrrWu9Vm7eaUEy76DIxsuTaWvti5fkJVhllWc6ZTE+Mdw=="
@@ -2256,24 +2247,6 @@
     "inherits" "^2.0.3"
     "minimalistic-assert" "^1.0.1"
 
-"hawk@~0.10.2":
-  "integrity" "sha512-BjpmnZ95odv7KOIsydfNTAxfGOGaVc6xbYL4fozWl45PWjDqskix0LHAekmGkpnrCAI6+AZRvJIXNTAllj+e6w=="
-  "resolved" "https://registry.npmjs.org/hawk/-/hawk-0.10.2.tgz"
-  "version" "0.10.2"
-  dependencies:
-    "boom" "0.3.x"
-    "cryptiles" "0.1.x"
-    "hoek" "0.7.x"
-    "sntp" "0.1.x"
-
-"hawk@github:mozilla/hawk":
-  "resolved" "git+ssh://git@github.com/mozilla/hawk.git#f1426e47123bb2193748c712bc2585e2ec2b1da0"
-  "version" "9.0.1"
-  dependencies:
-    "@hapi/b64" "5.x.x"
-    "@hapi/boom" "9.x.x"
-    "@hapi/cryptiles" "5.x.x"
-    "@hapi/hoek" "9.x.x"
 
 "he@1.2.0":
   "integrity" "sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw=="
@@ -3813,7 +3786,6 @@
     "cookie-jar" "~0.2.0"
     "forever-agent" "~0.2.0"
     "form-data" "~0.0.3"
-    "hawk" "~0.10.2"
     "json-stringify-safe" "~3.0.0"
     "mime" "~1.2.7"
     "node-uuid" "~1.4.0"
